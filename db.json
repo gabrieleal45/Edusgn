@@ -1,0 +1,59 @@
+{
+  "users": [
+    {
+      "email": "aluno@example.com",
+      "password": "123456",
+      "favoritos": [
+        "Dom Casmurro",
+        "O Pr\u00edncipe"
+      ],
+      "historico": [
+        "Dom Casmurro",
+        "O Pr\u00edncipe",
+        "Gram\u00e1tica de Portugu\u00eas"
+      ],
+      "marcadores": {
+        "Dom Casmurro": 5
+      }
+    }
+  ],
+  "livros": [
+    {
+      "titulo": "Dom Casmurro",
+      "categoria": "Romance",
+      "arquivo": "dom-casmurro.pdf"
+    },
+    {
+      "titulo": "O Pr\u00edncipe",
+      "categoria": "Filosofia",
+      "arquivo": "o-principe.pdf"
+    },
+    {
+      "titulo": "Gram\u00e1tica de Portugu\u00eas",
+      "categoria": "Did\u00e1ticos - Portugu\u00eas",
+      "arquivo": "gramatica-portugues.pdf"
+    },
+    {
+      "titulo": "A Origem das Esp\u00e9cies",
+      "categoria": "Biologia",
+      "arquivo": "origem-especies.pdf"
+    },
+    {
+      "titulo": "Matem\u00e1tica B\u00e1sica",
+      "categoria": "Did\u00e1ticos - Matem\u00e1tica",
+      "arquivo": "matematica-basica.pdf"
+    }
+  ],
+  "videos": [
+    {
+      "titulo": "Document\u00e1rio: A Hist\u00f3ria do Brasil",
+      "categoria": "Document\u00e1rio",
+      "arquivo": "historia-brasil.mp4"
+    },
+    {
+      "titulo": "F\u00edsica Divertida",
+      "categoria": "Aulas",
+      "arquivo": "fisica-divertida.mp4"
+    }
+  ]
+}
